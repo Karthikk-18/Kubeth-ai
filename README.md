@@ -1,5 +1,5 @@
 #kubeth-ai
-# 🧠 AI Multi-Agent-Researcher   
+# 🧠 AI Multi-Agent-Researcher  
 _A Multi-Agent Kestra Powered Automated Research System_
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
