@@ -3,7 +3,7 @@
 _A Multi-Agent Kestra Powered Automated Research System_
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Backend](https://img.shields.io/badge/Backend-FastAPI-blue)
+![Backend](https://img.shields.io/badge/Backend-Spring--Boot-green)
 ![Orchestrator](https://img.shields.io/badge/AI%20Agent-Kestra-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Database](https://img.shields.io/badge/Database-MySQL-orange)
@@ -46,7 +46,7 @@ Users enter a topic → the system autonomously retrieves information → proces
 
 | Layer | Technology |
 |-------|-----------|
-| Backend | Springboot  |
+| Backend | Springboot |
 | Database | MySQL |
 | AI Orchestration | Kestra |
 | Authentication | JWT |
