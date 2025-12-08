@@ -1,4 +1,5 @@
-# 🧠 AI Research Intelligence Agent  
+#kubeth-ai
+# 🧠 AI Multi-Agent-Researcher   
 _A Multi-Agent Kestra Powered Automated Research System_
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
@@ -45,7 +46,7 @@ Users enter a topic → the system autonomously retrieves information → proces
 
 | Layer | Technology |
 |-------|-----------|
-| Backend | FastAPI + Python |
+| Backend | Springboot  |
 | Database | MySQL |
 | AI Orchestration | Kestra |
 | Authentication | JWT |
