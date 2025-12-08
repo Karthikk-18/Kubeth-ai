@@ -53,7 +53,7 @@ Users enter a topic → the system autonomously retrieves information → proces
 | Websearch|duck-duck-go |
 | Frontend | React + Tailwind (handled by teammates) |
 | Deployment | Docker + Vercel (planned) |
-| Code Quality | CodeRabbit (planned) |
+| Code Quality | CodeRabbit (planned..) |
 
 ---
 
