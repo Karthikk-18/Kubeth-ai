@@ -38,7 +38,7 @@ Users enter a topic → the system autonomously retrieves information → proces
 | Confidence Scoring / Credibility Check | 🔄 |
 | Downloadable PDF Output | 🔄 |
 | Frontend Integration | 🔄 |
-| Vercel Deployment | Pending.. |
+| Vercel Deployment | Pending |
 
 ---
 
